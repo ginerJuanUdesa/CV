@@ -18,8 +18,3 @@ This repository showcases my **AI Engineer** curriculum vitae. I keep two versio
 ![English CV Preview](curriculum_en.png)
 
 [**Download English CV (PDF)**](curriculum_en.pdf)
-
-## Notes
-
-- The LaTeX sources are `curriculum_sp.tex` and `curriculum_en.tex`.
-- PNG previews are automatically generated from the PDFs on each compilation.
